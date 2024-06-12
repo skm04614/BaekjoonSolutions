@@ -11,6 +11,7 @@
 | ----- | ----- |
 |1005. ACM Craft|[링크](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md)|
 |1052. 물병|[링크](./%EB%B0%B1%EC%A4%80/Gold/1052.%E2%80%85%EB%AC%BC%EB%B3%91/README.md)|
+|1068. 트리|[링크](./%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC/README.md)|
 |21940. 가운데에서 만나기|[링크](./%EB%B0%B1%EC%A4%80/Gold/21940.%E2%80%85%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%97%90%EC%84%9C%E2%80%85%EB%A7%8C%EB%82%98%EA%B8%B0/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
