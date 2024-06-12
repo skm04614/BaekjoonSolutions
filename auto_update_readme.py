@@ -24,11 +24,13 @@ def main():
             if not os.path.exists(tier_directory):
                 continue
 
-            readme_lines.append(f"### 🚀 {tier}")
+            problems = sorted(os.listdir(tier_directory), key=lambda p: int(PROBLEM_PATTERN.match(p)['ID']))
+
+            readme_lines.append(f"### 🚀 {tier} <{len(problems)} 문제 해결>")
             readme_lines.append("| 번호 | 문제 |")
             readme_lines.append("| ----- | ----- |")
 
-            for problem in sorted(os.listdir(tier_directory)):
+            for problem in problems:
                 m = PROBLEM_PATTERN.match(problem)
                 readme_lines.append(f"| {m['ID']}"
                                     f" | [{m['NAME']}]({quote(os.path.join(tier_directory,problem, 'README.md'))}) |")
