@@ -1,2 +1,11 @@
-# BaekjoonSolutions
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+#
+# 백준, 프로그래머스 문제 풀이 목록
+## 📚 백준
+### 🚀 Bronze
+| 문제번호 | 링크 |
+| ----- | ----- |
+|1000. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/README.md)|
+### 🚀 Gold
+| 문제번호 | 링크 |
+| ----- | ----- |
+|21940. 가운데에서 만나기|[링크](./%EB%B0%B1%EC%A4%80/Gold/21940.%E2%80%85%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%97%90%EC%84%9C%E2%80%85%EB%A7%8C%EB%82%98%EA%B8%B0/README.md)|
