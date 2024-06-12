@@ -8,7 +8,7 @@
 | 13159 | [배열](./%EB%B0%B1%EC%A4%80/Diamond/13159.%E2%80%85%EB%B0%B0%EC%97%B4/README.md) |
 | 14131 | [Okret](./%EB%B0%B1%EC%A4%80/Diamond/14131.%E2%80%85Okret/README.md) |
 | 16586 | [Linked List](./%EB%B0%B1%EC%A4%80/Diamond/16586.%E2%80%85Linked%E2%80%85List/README.md) |
-### 🚀 Platinum <124 문제 해결>
+### 🚀 Platinum <125 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1097 | [마법의 문자열](./%EB%B0%B1%EC%A4%80/Platinum/1097.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
@@ -25,6 +25,7 @@
 | 1585 | [경찰](./%EB%B0%B1%EC%A4%80/Platinum/1585.%E2%80%85%EA%B2%BD%EC%B0%B0/README.md) |
 | 1605 | [반복 부분문자열](./%EB%B0%B1%EC%A4%80/Platinum/1605.%E2%80%85%EB%B0%98%EB%B3%B5%E2%80%85%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
 | 1671 | [상어의 저녁식사](./%EB%B0%B1%EC%A4%80/Platinum/1671.%E2%80%85%EC%83%81%EC%96%B4%EC%9D%98%E2%80%85%EC%A0%80%EB%85%81%EC%8B%9D%EC%82%AC/README.md) |
+| 1725 | [히스토그램](./%EB%B0%B1%EC%A4%80/Platinum/1725.%E2%80%85%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8/README.md) |
 | 1761 | [정점들의 거리](./%EB%B0%B1%EC%A4%80/Platinum/1761.%E2%80%85%EC%A0%95%EC%A0%90%EB%93%A4%EC%9D%98%E2%80%85%EA%B1%B0%EB%A6%AC/README.md) |
 | 1786 | [찾기](./%EB%B0%B1%EC%A4%80/Platinum/1786.%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) |
 | 1854 | [K번째 최단경로 찾기](./%EB%B0%B1%EC%A4%80/Platinum/1854.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) |
@@ -135,7 +136,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <255 문제 해결>
+### 🚀 Gold <256 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -177,6 +178,7 @@
 | 1701 | [Cubeditor](./%EB%B0%B1%EC%A4%80/Gold/1701.%E2%80%85Cubeditor/README.md) |
 | 1707 | [이분 그래프](./%EB%B0%B1%EC%A4%80/Gold/1707.%E2%80%85%EC%9D%B4%EB%B6%84%E2%80%85%EA%B7%B8%EB%9E%98%ED%94%84/README.md) |
 | 1715 | [카드 정렬하기](./%EB%B0%B1%EC%A4%80/Gold/1715.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/README.md) |
+| 1717 | [집합의 표현](./%EB%B0%B1%EC%A4%80/Gold/1717.%E2%80%85%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%ED%91%9C%ED%98%84/README.md) |
 | 1719 | [택배](./%EB%B0%B1%EC%A4%80/Gold/1719.%E2%80%85%ED%83%9D%EB%B0%B0/README.md) |
 | 1726 | [로봇](./%EB%B0%B1%EC%A4%80/Gold/1726.%E2%80%85%EB%A1%9C%EB%B4%87/README.md) |
 | 1738 | [골목길](./%EB%B0%B1%EC%A4%80/Gold/1738.%E2%80%85%EA%B3%A8%EB%AA%A9%EA%B8%B8/README.md) |
