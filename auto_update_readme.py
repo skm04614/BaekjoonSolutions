@@ -1,55 +1,41 @@
 #!/usr/bin/env python
 
 import os
-from urllib import parse
+import re
+from urllib.parse import quote
 
-HEADER="""#
-# 백준, 프로그래머스 문제 풀이 목록
-"""
+
+PS_SITES = ["백준", "프로그래머스"]
+TIERS = ("Ruby", "Diamond", "Platinum", "Gold", "Silver", "Bronze", "Unrated")
+PROBLEM_PATTERN = re.compile(r"(?P<ID>\d+)[.]\s*(?P<NAME>.*)\s*")
+
 
 def main():
-  content = ""
-  content += HEADER
-  
-  directories = []
-  solveds = []
-  
-  for root, dirs, files in os.walk("."):
-    dirs.sort()
-    if root == '.':
-      for dir in ('.git', '.github'):
-        try:
-          dirs.remove(dir)
-        except ValueError:
-          pass
-      continue
-    
-    category = os.path.basename(root)
-    
-    if category == 'images':
-      continue
-      
-    directory = os.path.basename(os.path.dirname(root))
-    
-    if directory == '.':
-      continue
-      
-    if directory not in directories:
-      if directory in ["백준", "프로그래머스"]:
-        content += "## 📚 {}\n".format(directory)
-      else:
-        content += "### 🚀 {}\n".format(directory)
-        content += "| 문제번호 | 링크 |\n"
-        content += "| ----- | ----- |\n"
-      directories.append(directory)
-      
-    for file in files:
-      if category not in solveds:
-        content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
-        solveds.append(category)
-        
-  with open("README.md", "w") as fd:
-    fd.write(content)
-    
+    readme_lines = [f"# {' / '.join(PS_SITES)} 문제 풀이 목록"]
+
+    for ps_site in PS_SITES:
+        directory = f"./{ps_site}"
+        if not os.path.exists(directory):
+            continue
+
+        readme_lines.append(f"## 📚 {ps_site}")
+        for tier in TIERS:
+            tier_directory = os.path.join(directory, tier)
+            if not os.path.exists(tier_directory):
+                continue
+
+            readme_lines.append(f"### 🚀 {tier}")
+            readme_lines.append("| 번호 | 문제 |")
+            readme_lines.append("| ----- | ----- |")
+
+            for problem in sorted(os.listdir(tier_directory)):
+                m = PROBLEM_PATTERN.match(problem)
+                readme_lines.append(f"| {m['ID']}"
+                                    f" | [{m['NAME']}]({quote(os.path.join(tier_directory,problem, 'README.md'))}) |")
+
+    with open("./README.md", "w", encoding="utf-8") as f:
+        f.write("\n".join(readme_lines))
+
+
 if __name__ == "__main__":
-  main()
+    main()
