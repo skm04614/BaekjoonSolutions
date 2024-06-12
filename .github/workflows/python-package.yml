@@ -27,7 +27,7 @@ jobs:
         pip install python-leetcode
     - name: Run auto_update_readme.py
       run: |
-        python update.py
+        python auto_update_readme.py
     - name: Commit changes
       run: |
         git config --global user.name 'github nickname'
