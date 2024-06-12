@@ -136,7 +136,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <256 문제 해결>
+### 🚀 Gold <257 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -200,6 +200,7 @@
 | 1916 | [최소비용 구하기](./%EB%B0%B1%EC%A4%80/Gold/1916.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) |
 | 1918 | [후위 표기식](./%EB%B0%B1%EC%A4%80/Gold/1918.%E2%80%85%ED%9B%84%EC%9C%84%E2%80%85%ED%91%9C%EA%B8%B0%EC%8B%9D/README.md) |
 | 1922 | [네트워크 연결](./%EB%B0%B1%EC%A4%80/Gold/1922.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%E2%80%85%EC%97%B0%EA%B2%B0/README.md) |
+| 1933 | [스카이라인](./%EB%B0%B1%EC%A4%80/Gold/1933.%E2%80%85%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8/README.md) |
 | 1937 | [욕심쟁이 판다](./%EB%B0%B1%EC%A4%80/Gold/1937.%E2%80%85%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4%E2%80%85%ED%8C%90%EB%8B%A4/README.md) |
 | 1938 | [통나무 옮기기](./%EB%B0%B1%EC%A4%80/Gold/1938.%E2%80%85%ED%86%B5%EB%82%98%EB%AC%B4%E2%80%85%EC%98%AE%EA%B8%B0%EA%B8%B0/README.md) |
 | 1976 | [여행 가자](./%EB%B0%B1%EC%A4%80/Gold/1976.%E2%80%85%EC%97%AC%ED%96%89%E2%80%85%EA%B0%80%EC%9E%90/README.md) |
