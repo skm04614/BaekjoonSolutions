@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <293 문제 해결>
+### 🚀 Gold <294 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -203,6 +203,7 @@
 | 1796 | [신기한 키보드](./%EB%B0%B1%EC%A4%80/Gold/1796.%E2%80%85%EC%8B%A0%EA%B8%B0%ED%95%9C%E2%80%85%ED%82%A4%EB%B3%B4%EB%93%9C/README.md) |
 | 1799 | [비숍](./%EB%B0%B1%EC%A4%80/Gold/1799.%E2%80%85%EB%B9%84%EC%88%8D/README.md) |
 | 1806 | [부분합](./%EB%B0%B1%EC%A4%80/Gold/1806.%E2%80%85%EB%B6%80%EB%B6%84%ED%95%A9/README.md) |
+| 1823 | [수확](./%EB%B0%B1%EC%A4%80/Gold/1823.%E2%80%85%EC%88%98%ED%99%95/README.md) |
 | 1826 | [연료 채우기](./%EB%B0%B1%EC%A4%80/Gold/1826.%E2%80%85%EC%97%B0%EB%A3%8C%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/README.md) |
 | 1865 | [웜홀](./%EB%B0%B1%EC%A4%80/Gold/1865.%E2%80%85%EC%9B%9C%ED%99%80/README.md) |
 | 1911 | [흙길 보수하기](./%EB%B0%B1%EC%A4%80/Gold/1911.%E2%80%85%ED%9D%99%EA%B8%B8%E2%80%85%EB%B3%B4%EC%88%98%ED%95%98%EA%B8%B0/README.md) |
