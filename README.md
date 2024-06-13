@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <289 문제 해결>
+### 🚀 Gold <291 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -415,6 +415,8 @@
 | 17435 | [합성함수와 쿼리](./%EB%B0%B1%EC%A4%80/Gold/17435.%E2%80%85%ED%95%A9%EC%84%B1%ED%95%A8%EC%88%98%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) |
 | 17609 | [회문](./%EB%B0%B1%EC%A4%80/Gold/17609.%E2%80%85%ED%9A%8C%EB%AC%B8/README.md) |
 | 17616 | [등수 찾기](./%EB%B0%B1%EC%A4%80/Gold/17616.%E2%80%85%EB%93%B1%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) |
+| 17779 | [게리맨더링 2](./%EB%B0%B1%EC%A4%80/Gold/17779.%E2%80%85%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%81%E2%80%852/README.md) |
+| 17822 | [원판 돌리기](./%EB%B0%B1%EC%A4%80/Gold/17822.%E2%80%85%EC%9B%90%ED%8C%90%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/README.md) |
 | 17825 | [주사위 윷놀이](./%EB%B0%B1%EC%A4%80/Gold/17825.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%9C%B7%EB%86%80%EC%9D%B4/README.md) |
 | 17837 | [새로운 게임 2](./%EB%B0%B1%EC%A4%80/Gold/17837.%E2%80%85%EC%83%88%EB%A1%9C%EC%9A%B4%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852/README.md) |
 | 17845 | [수강 과목](./%EB%B0%B1%EC%A4%80/Gold/17845.%E2%80%85%EC%88%98%EA%B0%95%E2%80%85%EA%B3%BC%EB%AA%A9/README.md) |
