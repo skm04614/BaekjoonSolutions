@@ -8,7 +8,7 @@
 | 13159 | [배열](./%EB%B0%B1%EC%A4%80/Diamond/13159.%E2%80%85%EB%B0%B0%EC%97%B4/README.md) |
 | 14131 | [Okret](./%EB%B0%B1%EC%A4%80/Diamond/14131.%E2%80%85Okret/README.md) |
 | 16586 | [Linked List](./%EB%B0%B1%EC%A4%80/Diamond/16586.%E2%80%85Linked%E2%80%85List/README.md) |
-### 🚀 Platinum <127 문제 해결>
+### 🚀 Platinum <128 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1097 | [마법의 문자열](./%EB%B0%B1%EC%A4%80/Platinum/1097.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
@@ -43,6 +43,7 @@
 | 2463 | [비용](./%EB%B0%B1%EC%A4%80/Platinum/2463.%E2%80%85%EB%B9%84%EC%9A%A9/README.md) |
 | 2517 | [달리기](./%EB%B0%B1%EC%A4%80/Platinum/2517.%E2%80%85%EB%8B%AC%EB%A6%AC%EA%B8%B0/README.md) |
 | 2568 | [전깃줄 － 2](./%EB%B0%B1%EC%A4%80/Platinum/2568.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84%E2%80%85%EF%BC%8D%E2%80%852/README.md) |
+| 2820 | [자동차 공장](./%EB%B0%B1%EC%A4%80/Platinum/2820.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%E2%80%85%EA%B3%B5%EC%9E%A5/README.md) |
 | 2912 | [백설공주와 난쟁이](./%EB%B0%B1%EC%A4%80/Platinum/2912.%E2%80%85%EB%B0%B1%EC%84%A4%EA%B3%B5%EC%A3%BC%EC%99%80%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md) |
 | 3006 | [터보소트](./%EB%B0%B1%EC%A4%80/Platinum/3006.%E2%80%85%ED%84%B0%EB%B3%B4%EC%86%8C%ED%8A%B8/README.md) |
 | 3015 | [오아시스 재결합](./%EB%B0%B1%EC%A4%80/Platinum/3015.%E2%80%85%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%E2%80%85%EC%9E%AC%EA%B2%B0%ED%95%A9/README.md) |
@@ -138,7 +139,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <266 문제 해결>
+### 🚀 Gold <267 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -248,6 +249,7 @@
 | 2643 | [색종이 올려 놓기](./%EB%B0%B1%EC%A4%80/Gold/2643.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EC%98%AC%EB%A0%A4%E2%80%85%EB%86%93%EA%B8%B0/README.md) |
 | 2651 | [자동차경주대회](./%EB%B0%B1%EC%A4%80/Gold/2651.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B2%BD%EC%A3%BC%EB%8C%80%ED%9A%8C/README.md) |
 | 2749 | [피보나치 수 3](./%EB%B0%B1%EC%A4%80/Gold/2749.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98%E2%80%853/README.md) |
+| 2812 | [크게 만들기](./%EB%B0%B1%EC%A4%80/Gold/2812.%E2%80%85%ED%81%AC%EA%B2%8C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) |
 | 3151 | [합이 0](./%EB%B0%B1%EC%A4%80/Gold/3151.%E2%80%85%ED%95%A9%EC%9D%B4%E2%80%850/README.md) |
 | 3190 | [뱀](./%EB%B0%B1%EC%A4%80/Gold/3190.%E2%80%85%EB%B1%80/README.md) |
 | 3584 | [가장 가까운 공통 조상](./%EB%B0%B1%EC%A4%80/Gold/3584.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EA%B3%B5%ED%86%B5%E2%80%85%EC%A1%B0%EC%83%81/README.md) |
