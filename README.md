@@ -8,7 +8,7 @@
 | 13159 | [배열](./%EB%B0%B1%EC%A4%80/Diamond/13159.%E2%80%85%EB%B0%B0%EC%97%B4/README.md) |
 | 14131 | [Okret](./%EB%B0%B1%EC%A4%80/Diamond/14131.%E2%80%85Okret/README.md) |
 | 16586 | [Linked List](./%EB%B0%B1%EC%A4%80/Diamond/16586.%E2%80%85Linked%E2%80%85List/README.md) |
-### 🚀 Platinum <129 문제 해결>
+### 🚀 Platinum <131 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1097 | [마법의 문자열](./%EB%B0%B1%EC%A4%80/Platinum/1097.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
@@ -51,6 +51,8 @@
 | 3033 | [가장 긴 문자열](./%EB%B0%B1%EC%A4%80/Platinum/3033.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
 | 3176 | [도로 네트워크](./%EB%B0%B1%EC%A4%80/Platinum/3176.%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/README.md) |
 | 3356 | [라디오 전송](./%EB%B0%B1%EC%A4%80/Platinum/3356.%E2%80%85%EB%9D%BC%EB%94%94%EC%98%A4%E2%80%85%EC%A0%84%EC%86%A1/README.md) |
+| 3640 | [제독](./%EB%B0%B1%EC%A4%80/Platinum/3640.%E2%80%85%EC%A0%9C%EB%8F%85/README.md) |
+| 3653 | [영화 수집](./%EB%B0%B1%EC%A4%80/Platinum/3653.%E2%80%85%EC%98%81%ED%99%94%E2%80%85%EC%88%98%EC%A7%91/README.md) |
 | 3780 | [네트워크 연결](./%EB%B0%B1%EC%A4%80/Platinum/3780.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%E2%80%85%EC%97%B0%EA%B2%B0/README.md) |
 | 3860 | [할로윈 묘지](./%EB%B0%B1%EC%A4%80/Platinum/3860.%E2%80%85%ED%95%A0%EB%A1%9C%EC%9C%88%E2%80%85%EB%AC%98%EC%A7%80/README.md) |
 | 4354 | [문자열 제곱](./%EB%B0%B1%EC%A4%80/Platinum/4354.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A0%9C%EA%B3%B1/README.md) |
@@ -140,7 +142,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <269 문제 해결>
+### 🚀 Gold <271 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -256,6 +258,8 @@
 | 3151 | [합이 0](./%EB%B0%B1%EC%A4%80/Gold/3151.%E2%80%85%ED%95%A9%EC%9D%B4%E2%80%850/README.md) |
 | 3190 | [뱀](./%EB%B0%B1%EC%A4%80/Gold/3190.%E2%80%85%EB%B1%80/README.md) |
 | 3584 | [가장 가까운 공통 조상](./%EB%B0%B1%EC%A4%80/Gold/3584.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EA%B3%B5%ED%86%B5%E2%80%85%EC%A1%B0%EC%83%81/README.md) |
+| 3665 | [최종 순위](./%EB%B0%B1%EC%A4%80/Gold/3665.%E2%80%85%EC%B5%9C%EC%A2%85%E2%80%85%EC%88%9C%EC%9C%84/README.md) |
+| 3687 | [성냥개비](./%EB%B0%B1%EC%A4%80/Gold/3687.%E2%80%85%EC%84%B1%EB%83%A5%EA%B0%9C%EB%B9%84/README.md) |
 | 4195 | [친구 네트워크](./%EB%B0%B1%EC%A4%80/Gold/4195.%E2%80%85%EC%B9%9C%EA%B5%AC%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/README.md) |
 | 4386 | [별자리 만들기](./%EB%B0%B1%EC%A4%80/Gold/4386.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) |
 | 4485 | [녹색 옷 입은 애가 젤다지？](./%EB%B0%B1%EC%A4%80/Gold/4485.%E2%80%85%EB%85%B9%EC%83%89%E2%80%85%EC%98%B7%E2%80%85%EC%9E%85%EC%9D%80%E2%80%85%EC%95%A0%EA%B0%80%E2%80%85%EC%A0%A4%EB%8B%A4%EC%A7%80%EF%BC%9F/README.md) |
