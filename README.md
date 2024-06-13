@@ -8,7 +8,7 @@
 | 13159 | [배열](./%EB%B0%B1%EC%A4%80/Diamond/13159.%E2%80%85%EB%B0%B0%EC%97%B4/README.md) |
 | 14131 | [Okret](./%EB%B0%B1%EC%A4%80/Diamond/14131.%E2%80%85Okret/README.md) |
 | 16586 | [Linked List](./%EB%B0%B1%EC%A4%80/Diamond/16586.%E2%80%85Linked%E2%80%85List/README.md) |
-### 🚀 Platinum <128 문제 해결>
+### 🚀 Platinum <129 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1097 | [마법의 문자열](./%EB%B0%B1%EC%A4%80/Platinum/1097.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
@@ -45,6 +45,7 @@
 | 2568 | [전깃줄 － 2](./%EB%B0%B1%EC%A4%80/Platinum/2568.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84%E2%80%85%EF%BC%8D%E2%80%852/README.md) |
 | 2820 | [자동차 공장](./%EB%B0%B1%EC%A4%80/Platinum/2820.%E2%80%85%EC%9E%90%EB%8F%99%EC%B0%A8%E2%80%85%EA%B3%B5%EC%9E%A5/README.md) |
 | 2912 | [백설공주와 난쟁이](./%EB%B0%B1%EC%A4%80/Platinum/2912.%E2%80%85%EB%B0%B1%EC%84%A4%EA%B3%B5%EC%A3%BC%EC%99%80%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4/README.md) |
+| 3002 | [아날로그 다이얼](./%EB%B0%B1%EC%A4%80/Platinum/3002.%E2%80%85%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC/README.md) |
 | 3006 | [터보소트](./%EB%B0%B1%EC%A4%80/Platinum/3006.%E2%80%85%ED%84%B0%EB%B3%B4%EC%86%8C%ED%8A%B8/README.md) |
 | 3015 | [오아시스 재결합](./%EB%B0%B1%EC%A4%80/Platinum/3015.%E2%80%85%EC%98%A4%EC%95%84%EC%8B%9C%EC%8A%A4%E2%80%85%EC%9E%AC%EA%B2%B0%ED%95%A9/README.md) |
 | 3033 | [가장 긴 문자열](./%EB%B0%B1%EC%A4%80/Platinum/3033.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
