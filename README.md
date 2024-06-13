@@ -8,7 +8,7 @@
 | 13159 | [배열](./%EB%B0%B1%EC%A4%80/Diamond/13159.%E2%80%85%EB%B0%B0%EC%97%B4/README.md) |
 | 14131 | [Okret](./%EB%B0%B1%EC%A4%80/Diamond/14131.%E2%80%85Okret/README.md) |
 | 16586 | [Linked List](./%EB%B0%B1%EC%A4%80/Diamond/16586.%E2%80%85Linked%E2%80%85List/README.md) |
-### 🚀 Platinum <131 문제 해결>
+### 🚀 Platinum <132 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1097 | [마법의 문자열](./%EB%B0%B1%EC%A4%80/Platinum/1097.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
@@ -68,6 +68,7 @@
 | 8462 | [배열의 힘](./%EB%B0%B1%EC%A4%80/Platinum/8462.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%9E%98/README.md) |
 | 9248 | [Suffix Array](./%EB%B0%B1%EC%A4%80/Platinum/9248.%E2%80%85Suffix%E2%80%85Array/README.md) |
 | 9249 | [최장 공통 부분 문자열](./%EB%B0%B1%EC%A4%80/Platinum/9249.%E2%80%85%EC%B5%9C%EC%9E%A5%E2%80%85%EA%B3%B5%ED%86%B5%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
+| 9548 | [무제](./%EB%B0%B1%EC%A4%80/Platinum/9548.%E2%80%85%EB%AC%B4%EC%A0%9C/README.md) |
 | 10266 | [시계 사진들](./%EB%B0%B1%EC%A4%80/Platinum/10266.%E2%80%85%EC%8B%9C%EA%B3%84%E2%80%85%EC%82%AC%EC%A7%84%EB%93%A4/README.md) |
 | 10413 | [반복되는 부분 문자열](./%EB%B0%B1%EC%A4%80/Platinum/10413.%E2%80%85%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
 | 10976 | [피난](./%EB%B0%B1%EC%A4%80/Platinum/10976.%E2%80%85%ED%94%BC%EB%82%9C/README.md) |
@@ -142,7 +143,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <273 문제 해결>
+### 🚀 Gold <276 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -295,6 +296,9 @@
 | 9251 | [LCS](./%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS/README.md) |
 | 9252 | [LCS 2](./%EB%B0%B1%EC%A4%80/Gold/9252.%E2%80%85LCS%E2%80%852/README.md) |
 | 9328 | [열쇠](./%EB%B0%B1%EC%A4%80/Gold/9328.%E2%80%85%EC%97%B4%EC%87%A0/README.md) |
+| 9466 | [텀 프로젝트](./%EB%B0%B1%EC%A4%80/Gold/9466.%E2%80%85%ED%85%80%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/README.md) |
+| 9527 | [1의 개수 세기](./%EB%B0%B1%EC%A4%80/Gold/9527.%E2%80%851%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98%E2%80%85%EC%84%B8%EA%B8%B0/README.md) |
+| 9576 | [책 나눠주기](./%EB%B0%B1%EC%A4%80/Gold/9576.%E2%80%85%EC%B1%85%E2%80%85%EB%82%98%EB%88%A0%EC%A3%BC%EA%B8%B0/README.md) |
 | 9660 | [돌 게임 6](./%EB%B0%B1%EC%A4%80/Gold/9660.%E2%80%85%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%856/README.md) |
 | 9663 | [N－Queen](./%EB%B0%B1%EC%A4%80/Gold/9663.%E2%80%85N%EF%BC%8DQueen/README.md) |
 | 9935 | [문자열 폭발](./%EB%B0%B1%EC%A4%80/Gold/9935.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%ED%8F%AD%EB%B0%9C/README.md) |
@@ -418,7 +422,7 @@
 | 27439 | [팩토리얼 4](./%EB%B0%B1%EC%A4%80/Gold/27439.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%E2%80%854/README.md) |
 | 28078 | [중력 큐](./%EB%B0%B1%EC%A4%80/Gold/28078.%E2%80%85%EC%A4%91%EB%A0%A5%E2%80%85%ED%81%90/README.md) |
 | 28127 | [숫자탑과 쿼리](./%EB%B0%B1%EC%A4%80/Gold/28127.%E2%80%85%EC%88%AB%EC%9E%90%ED%83%91%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) |
-### 🚀 Silver <142 문제 해결>
+### 🚀 Silver <143 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1003 | [피보나치 함수](./%EB%B0%B1%EC%A4%80/Silver/1003.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%ED%95%A8%EC%88%98/README.md) |
@@ -495,6 +499,7 @@
 | 9095 | [1， 2， 3 더하기](./%EB%B0%B1%EC%A4%80/Silver/9095.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0/README.md) |
 | 9375 | [패션왕 신해빈](./%EB%B0%B1%EC%A4%80/Silver/9375.%E2%80%85%ED%8C%A8%EC%85%98%EC%99%95%E2%80%85%EC%8B%A0%ED%95%B4%EB%B9%88/README.md) |
 | 9461 | [파도반 수열](./%EB%B0%B1%EC%A4%80/Silver/9461.%E2%80%85%ED%8C%8C%EB%8F%84%EB%B0%98%E2%80%85%EC%88%98%EC%97%B4/README.md) |
+| 9465 | [스티커](./%EB%B0%B1%EC%A4%80/Silver/9465.%E2%80%85%EC%8A%A4%ED%8B%B0%EC%BB%A4/README.md) |
 | 9655 | [돌 게임](./%EB%B0%B1%EC%A4%80/Silver/9655.%E2%80%85%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84/README.md) |
 | 9656 | [돌 게임 2](./%EB%B0%B1%EC%A4%80/Silver/9656.%E2%80%85%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%852/README.md) |
 | 9657 | [돌 게임 3](./%EB%B0%B1%EC%A4%80/Silver/9657.%E2%80%85%EB%8F%8C%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%853/README.md) |
