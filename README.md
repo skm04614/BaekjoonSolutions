@@ -8,7 +8,7 @@
 | 13159 | [배열](./%EB%B0%B1%EC%A4%80/Diamond/13159.%E2%80%85%EB%B0%B0%EC%97%B4/README.md) |
 | 14131 | [Okret](./%EB%B0%B1%EC%A4%80/Diamond/14131.%E2%80%85Okret/README.md) |
 | 16586 | [Linked List](./%EB%B0%B1%EC%A4%80/Diamond/16586.%E2%80%85Linked%E2%80%85List/README.md) |
-### 🚀 Platinum <125 문제 해결>
+### 🚀 Platinum <127 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1097 | [마법의 문자열](./%EB%B0%B1%EC%A4%80/Platinum/1097.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
@@ -38,6 +38,8 @@
 | 2191 | [들쥐의 탈출](./%EB%B0%B1%EC%A4%80/Platinum/2191.%E2%80%85%EB%93%A4%EC%A5%90%EC%9D%98%E2%80%85%ED%83%88%EC%B6%9C/README.md) |
 | 2243 | [사탕상자](./%EB%B0%B1%EC%A4%80/Platinum/2243.%E2%80%85%EC%82%AC%ED%83%95%EC%83%81%EC%9E%90/README.md) |
 | 2316 | [도시 왕복하기 2](./%EB%B0%B1%EC%A4%80/Platinum/2316.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EC%99%95%EB%B3%B5%ED%95%98%EA%B8%B0%E2%80%852/README.md) |
+| 2325 | [개코전쟁](./%EB%B0%B1%EC%A4%80/Platinum/2325.%E2%80%85%EA%B0%9C%EC%BD%94%EC%A0%84%EC%9F%81/README.md) |
+| 2367 | [파티](./%EB%B0%B1%EC%A4%80/Platinum/2367.%E2%80%85%ED%8C%8C%ED%8B%B0/README.md) |
 | 2463 | [비용](./%EB%B0%B1%EC%A4%80/Platinum/2463.%E2%80%85%EB%B9%84%EC%9A%A9/README.md) |
 | 2517 | [달리기](./%EB%B0%B1%EC%A4%80/Platinum/2517.%E2%80%85%EB%8B%AC%EB%A6%AC%EA%B8%B0/README.md) |
 | 2568 | [전깃줄 － 2](./%EB%B0%B1%EC%A4%80/Platinum/2568.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84%E2%80%85%EF%BC%8D%E2%80%852/README.md) |
@@ -136,7 +138,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <264 문제 해결>
+### 🚀 Gold <266 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -227,6 +229,8 @@
 | 2293 | [동전 1](./%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851/README.md) |
 | 2294 | [동전 2](./%EB%B0%B1%EC%A4%80/Gold/2294.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%852/README.md) |
 | 2295 | [세 수의 합](./%EB%B0%B1%EC%A4%80/Gold/2295.%E2%80%85%EC%84%B8%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md) |
+| 2357 | [최솟값과 최댓값](./%EB%B0%B1%EC%A4%80/Gold/2357.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B3%BC%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92/README.md) |
+| 2410 | [2의 멱수의 합](./%EB%B0%B1%EC%A4%80/Gold/2410.%E2%80%852%EC%9D%98%E2%80%85%EB%A9%B1%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md) |
 | 2457 | [공주님의 정원](./%EB%B0%B1%EC%A4%80/Gold/2457.%E2%80%85%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%E2%80%85%EC%A0%95%EC%9B%90/README.md) |
 | 2467 | [용액](./%EB%B0%B1%EC%A4%80/Gold/2467.%E2%80%85%EC%9A%A9%EC%95%A1/README.md) |
 | 2473 | [세 용액](./%EB%B0%B1%EC%A4%80/Gold/2473.%E2%80%85%EC%84%B8%E2%80%85%EC%9A%A9%EC%95%A1/README.md) |
