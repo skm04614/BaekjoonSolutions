@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <296 문제 해결>
+### 🚀 Gold <297 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -165,6 +165,7 @@
 | 1202 | [보석 도둑](./%EB%B0%B1%EC%A4%80/Gold/1202.%E2%80%85%EB%B3%B4%EC%84%9D%E2%80%85%EB%8F%84%EB%91%91/README.md) |
 | 1208 | [부분수열의 합 2](./%EB%B0%B1%EC%A4%80/Gold/1208.%E2%80%85%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%852/README.md) |
 | 1238 | [파티](./%EB%B0%B1%EC%A4%80/Gold/1238.%E2%80%85%ED%8C%8C%ED%8B%B0/README.md) |
+| 1256 | [사전](./%EB%B0%B1%EC%A4%80/Gold/1256.%E2%80%85%EC%82%AC%EC%A0%84/README.md) |
 | 1275 | [커피숍2](./%EB%B0%B1%EC%A4%80/Gold/1275.%E2%80%85%EC%BB%A4%ED%94%BC%EC%88%8D2/README.md) |
 | 1285 | [동전 뒤집기](./%EB%B0%B1%EC%A4%80/Gold/1285.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/README.md) |
 | 1339 | [단어 수학](./%EB%B0%B1%EC%A4%80/Gold/1339.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%88%98%ED%95%99/README.md) |
