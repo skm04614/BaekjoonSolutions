@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <301 문제 해결>
+### 🚀 Gold <302 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -319,6 +319,7 @@
 | 10775 | [공항](./%EB%B0%B1%EC%A4%80/Gold/10775.%E2%80%85%EA%B3%B5%ED%95%AD/README.md) |
 | 10830 | [행렬 제곱](./%EB%B0%B1%EC%A4%80/Gold/10830.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EC%A0%9C%EA%B3%B1/README.md) |
 | 10868 | [최솟값](./%EB%B0%B1%EC%A4%80/Gold/10868.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92/README.md) |
+| 10942 | [팰린드롬？](./%EB%B0%B1%EC%A4%80/Gold/10942.%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EF%BC%9F/README.md) |
 | 10986 | [나머지 합](./%EB%B0%B1%EC%A4%80/Gold/10986.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%E2%80%85%ED%95%A9/README.md) |
 | 11000 | [강의실 배정](./%EB%B0%B1%EC%A4%80/Gold/11000.%E2%80%85%EA%B0%95%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95/README.md) |
 | 11049 | [행렬 곱셈 순서](./%EB%B0%B1%EC%A4%80/Gold/11049.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EA%B3%B1%EC%85%88%E2%80%85%EC%88%9C%EC%84%9C/README.md) |
