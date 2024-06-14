@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <299 문제 해결>
+### 🚀 Gold <300 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -158,6 +158,7 @@
 | 1068 | [트리](./%EB%B0%B1%EC%A4%80/Gold/1068.%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) |
 | 1083 | [소트](./%EB%B0%B1%EC%A4%80/Gold/1083.%E2%80%85%EC%86%8C%ED%8A%B8/README.md) |
 | 1092 | [배](./%EB%B0%B1%EC%A4%80/Gold/1092.%E2%80%85%EB%B0%B0/README.md) |
+| 1103 | [게임](./%EB%B0%B1%EC%A4%80/Gold/1103.%E2%80%85%EA%B2%8C%EC%9E%84/README.md) |
 | 1106 | [호텔](./%EB%B0%B1%EC%A4%80/Gold/1106.%E2%80%85%ED%98%B8%ED%85%94/README.md) |
 | 1107 | [리모컨](./%EB%B0%B1%EC%A4%80/Gold/1107.%E2%80%85%EB%A6%AC%EB%AA%A8%EC%BB%A8/README.md) |
 | 1167 | [트리의 지름](./%EB%B0%B1%EC%A4%80/Gold/1167.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EC%A7%80%EB%A6%84/README.md) |
