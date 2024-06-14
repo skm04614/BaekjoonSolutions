@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <300 문제 해결>
+### 🚀 Gold <301 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -284,6 +284,7 @@
 | 5676 | [음주 코딩](./%EB%B0%B1%EC%A4%80/Gold/5676.%E2%80%85%EC%9D%8C%EC%A3%BC%E2%80%85%EC%BD%94%EB%94%A9/README.md) |
 | 5972 | [택배 배송](./%EB%B0%B1%EC%A4%80/Gold/5972.%E2%80%85%ED%83%9D%EB%B0%B0%E2%80%85%EB%B0%B0%EC%86%A1/README.md) |
 | 6086 | [최대 유량](./%EB%B0%B1%EC%A4%80/Gold/6086.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%EC%9C%A0%EB%9F%89/README.md) |
+| 6087 | [레이저 통신](./%EB%B0%B1%EC%A4%80/Gold/6087.%E2%80%85%EB%A0%88%EC%9D%B4%EC%A0%80%E2%80%85%ED%86%B5%EC%8B%A0/README.md) |
 | 6137 | [문자열 생성](./%EB%B0%B1%EC%A4%80/Gold/6137.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%83%9D%EC%84%B1/README.md) |
 | 6198 | [옥상 정원 꾸미기](./%EB%B0%B1%EC%A4%80/Gold/6198.%E2%80%85%EC%98%A5%EC%83%81%E2%80%85%EC%A0%95%EC%9B%90%E2%80%85%EA%BE%B8%EB%AF%B8%EA%B8%B0/README.md) |
 | 6213 | [Balanced Lineup](./%EB%B0%B1%EC%A4%80/Gold/6213.%E2%80%85Balanced%E2%80%85Lineup/README.md) |
