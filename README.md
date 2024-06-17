@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <307 문제 해결>
+### 🚀 Gold <308 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -328,6 +328,7 @@
 | 11049 | [행렬 곱셈 순서](./%EB%B0%B1%EC%A4%80/Gold/11049.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EA%B3%B1%EC%85%88%E2%80%85%EC%88%9C%EC%84%9C/README.md) |
 | 11054 | [가장 긴 바이토닉 부분 수열](./%EB%B0%B1%EC%A4%80/Gold/11054.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EB%B0%94%EC%9D%B4%ED%86%A0%EB%8B%89%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4/README.md) |
 | 11058 | [크리보드](./%EB%B0%B1%EC%A4%80/Gold/11058.%E2%80%85%ED%81%AC%EB%A6%AC%EB%B3%B4%EB%93%9C/README.md) |
+| 11062 | [카드 게임](./%EB%B0%B1%EC%A4%80/Gold/11062.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B2%8C%EC%9E%84/README.md) |
 | 11066 | [파일 합치기](./%EB%B0%B1%EC%A4%80/Gold/11066.%E2%80%85%ED%8C%8C%EC%9D%BC%E2%80%85%ED%95%A9%EC%B9%98%EA%B8%B0/README.md) |
 | 11404 | [플로이드](./%EB%B0%B1%EC%A4%80/Gold/11404.%E2%80%85%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C/README.md) |
 | 11437 | [LCA](./%EB%B0%B1%EC%A4%80/Gold/11437.%E2%80%85LCA/README.md) |
