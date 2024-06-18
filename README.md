@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <311 문제 해결>
+### 🚀 Gold <312 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -161,6 +161,7 @@
 | 1103 | [게임](./%EB%B0%B1%EC%A4%80/Gold/1103.%E2%80%85%EA%B2%8C%EC%9E%84/README.md) |
 | 1106 | [호텔](./%EB%B0%B1%EC%A4%80/Gold/1106.%E2%80%85%ED%98%B8%ED%85%94/README.md) |
 | 1107 | [리모컨](./%EB%B0%B1%EC%A4%80/Gold/1107.%E2%80%85%EB%A6%AC%EB%AA%A8%EC%BB%A8/README.md) |
+| 1132 | [합](./%EB%B0%B1%EC%A4%80/Gold/1132.%E2%80%85%ED%95%A9/README.md) |
 | 1167 | [트리의 지름](./%EB%B0%B1%EC%A4%80/Gold/1167.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EC%A7%80%EB%A6%84/README.md) |
 | 1197 | [최소 스패닝 트리](./%EB%B0%B1%EC%A4%80/Gold/1197.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) |
 | 1202 | [보석 도둑](./%EB%B0%B1%EC%A4%80/Gold/1202.%E2%80%85%EB%B3%B4%EC%84%9D%E2%80%85%EB%8F%84%EB%91%91/README.md) |
