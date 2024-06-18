@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <309 문제 해결>
+### 🚀 Gold <310 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -365,6 +365,7 @@
 | 13975 | [파일 합치기 3](./%EB%B0%B1%EC%A4%80/Gold/13975.%E2%80%85%ED%8C%8C%EC%9D%BC%E2%80%85%ED%95%A9%EC%B9%98%EA%B8%B0%E2%80%853/README.md) |
 | 14002 | [가장 긴 증가하는 부분 수열 4](./%EB%B0%B1%EC%A4%80/Gold/14002.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%E2%80%854/README.md) |
 | 14226 | [이모티콘](./%EB%B0%B1%EC%A4%80/Gold/14226.%E2%80%85%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98/README.md) |
+| 14267 | [회사 문화 1](./%EB%B0%B1%EC%A4%80/Gold/14267.%E2%80%85%ED%9A%8C%EC%82%AC%E2%80%85%EB%AC%B8%ED%99%94%E2%80%851/README.md) |
 | 14289 | [본대 산책 3](./%EB%B0%B1%EC%A4%80/Gold/14289.%E2%80%85%EB%B3%B8%EB%8C%80%E2%80%85%EC%82%B0%EC%B1%85%E2%80%853/README.md) |
 | 14419 | [Foehn Phenomena](./%EB%B0%B1%EC%A4%80/Gold/14419.%E2%80%85Foehn%E2%80%85Phenomena/README.md) |
 | 14427 | [수열과 쿼리 15](./%EB%B0%B1%EC%A4%80/Gold/14427.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%8515/README.md) |
