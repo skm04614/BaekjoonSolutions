@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <312 문제 해결>
+### 🚀 Gold <313 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -177,6 +177,7 @@
 | 1415 | [사탕](./%EB%B0%B1%EC%A4%80/Gold/1415.%E2%80%85%EC%82%AC%ED%83%95/README.md) |
 | 1450 | [냅색문제](./%EB%B0%B1%EC%A4%80/Gold/1450.%E2%80%85%EB%83%85%EC%83%89%EB%AC%B8%EC%A0%9C/README.md) |
 | 1461 | [도서관](./%EB%B0%B1%EC%A4%80/Gold/1461.%E2%80%85%EB%8F%84%EC%84%9C%EA%B4%80/README.md) |
+| 1493 | [박스 채우기](./%EB%B0%B1%EC%A4%80/Gold/1493.%E2%80%85%EB%B0%95%EC%8A%A4%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/README.md) |
 | 1504 | [특정한 최단 경로](./%EB%B0%B1%EC%A4%80/Gold/1504.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) |
 | 1509 | [팰린드롬 분할](./%EB%B0%B1%EC%A4%80/Gold/1509.%E2%80%85%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%E2%80%85%EB%B6%84%ED%95%A0/README.md) |
 | 1516 | [게임 개발](./%EB%B0%B1%EC%A4%80/Gold/1516.%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%85%EA%B0%9C%EB%B0%9C/README.md) |
