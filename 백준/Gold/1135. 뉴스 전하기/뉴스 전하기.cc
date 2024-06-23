@@ -15,53 +15,45 @@ int max(int x, int y)
     return x > y ? x : y;
 }
 
-int CHILD_LIST[60][60];
-int N_CHILD[60];
-int DP[60];
+int CHILD_LIST[51][51];
+int N_CHILD[51];
+int DP[51];
 int N;
 
-void _sort(int* arr, int size)
+void q_sort(int* arr, int idx0, int idx1)
 {
-    for (int s = 1; s <= size; ++s)
+    if (idx0 >= idx1)
     {
-        int c = s;
-        while (c > 1)
-        {
-            int p = c >> 1;
-            if (DP[arr[p]] <= DP[arr[c]])
-            {
-                break;
-            }
-
-            swap(arr[p], arr[c]);
-            c = p;
-        }
+        return;
     }
 
-    for (int s = size; s >= 1; --s)
+    int pivot = idx0;
+    int left = idx0 + 1;
+    int right = idx1;
+
+    for (;;)
     {
-        swap(arr[1], arr[s]);
-
-        const int max_s = s - 1;
-        int p = 1;
-        int c = p << 1;
-        while (c <= max_s)
+        while (left <= right && DP[arr[left]] > DP[arr[pivot]])
         {
-            if ((c | 1) <= max_s && DP[arr[c | 1]] <= DP[arr[c]])
-            {
-                c |= 1;
-            }
-
-            if (DP[arr[p]] <= DP[arr[c]])
-            {
-                break;
-            }
-
-            swap(arr[p], arr[c]);
-            p = c;
-            c = p << 1;
+            ++left;
         }
+
+        while (left <= right && DP[arr[right]] <= DP[arr[pivot]])
+        {
+            --right;
+        }
+
+        if (left > right)
+        {
+            swap(arr[pivot], arr[right]);
+            break;
+        }
+
+        swap(arr[left], arr[right]);
     }
+
+    q_sort(arr, idx0, right - 1);
+    q_sort(arr, right + 1, idx1);
 }
 
 int dfs(int node)
@@ -71,7 +63,7 @@ int dfs(int node)
         dfs(CHILD_LIST[node][n]);
     }
 
-    _sort(CHILD_LIST[node], N_CHILD[node]);
+    q_sort(CHILD_LIST[node], 1, N_CHILD[node]);
 
     DP[node] = 0;
     for (int n = 1; n <= N_CHILD[node]; ++n)
