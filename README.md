@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <318 문제 해결>
+### 🚀 Gold <319 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -459,6 +459,7 @@
 | 21924 | [도시 건설](./%EB%B0%B1%EC%A4%80/Gold/21924.%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EA%B1%B4%EC%84%A4/README.md) |
 | 21939 | [문제 추천 시스템 Version 1](./%EB%B0%B1%EC%A4%80/Gold/21939.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%851/README.md) |
 | 21940 | [가운데에서 만나기](./%EB%B0%B1%EC%A4%80/Gold/21940.%E2%80%85%EA%B0%80%EC%9A%B4%EB%8D%B0%EC%97%90%EC%84%9C%E2%80%85%EB%A7%8C%EB%82%98%EA%B8%B0/README.md) |
+| 21944 | [문제 추천 시스템 Version 2](./%EB%B0%B1%EC%A4%80/Gold/21944.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%852/README.md) |
 | 23801 | [두 단계 최단 경로 2](./%EB%B0%B1%EC%A4%80/Gold/23801.%E2%80%85%EB%91%90%E2%80%85%EB%8B%A8%EA%B3%84%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C%E2%80%852/README.md) |
 | 23843 | [콘센트](./%EB%B0%B1%EC%A4%80/Gold/23843.%E2%80%85%EC%BD%98%EC%84%BC%ED%8A%B8/README.md) |
 | 25381 | [ABBC](./%EB%B0%B1%EC%A4%80/Gold/25381.%E2%80%85ABBC/README.md) |
