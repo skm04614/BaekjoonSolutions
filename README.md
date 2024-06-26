@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <319 문제 해결>
+### 🚀 Gold <320 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -358,6 +358,7 @@
 | 12919 | [A와 B 2](./%EB%B0%B1%EC%A4%80/Gold/12919.%E2%80%85A%EC%99%80%E2%80%85B%E2%80%852/README.md) |
 | 12970 | [AB](./%EB%B0%B1%EC%A4%80/Gold/12970.%E2%80%85AB/README.md) |
 | 13302 | [리조트](./%EB%B0%B1%EC%A4%80/Gold/13302.%E2%80%85%EB%A6%AC%EC%A1%B0%ED%8A%B8/README.md) |
+| 13325 | [이진 트리](./%EB%B0%B1%EC%A4%80/Gold/13325.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) |
 | 13334 | [철로](./%EB%B0%B1%EC%A4%80/Gold/13334.%E2%80%85%EC%B2%A0%EB%A1%9C/README.md) |
 | 13344 | [Chess Tournament](./%EB%B0%B1%EC%A4%80/Gold/13344.%E2%80%85Chess%E2%80%85Tournament/README.md) |
 | 13398 | [연속합 2](./%EB%B0%B1%EC%A4%80/Gold/13398.%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9%E2%80%852/README.md) |
