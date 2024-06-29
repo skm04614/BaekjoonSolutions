@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <324 문제 해결>
+### 🚀 Gold <325 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -391,6 +391,7 @@
 | 14698 | [전생했더니 슬라임 연구자였던 건에 대하여 （Hard）](./%EB%B0%B1%EC%A4%80/Gold/14698.%E2%80%85%EC%A0%84%EC%83%9D%ED%96%88%EB%8D%94%EB%8B%88%E2%80%85%EC%8A%AC%EB%9D%BC%EC%9E%84%E2%80%85%EC%97%B0%EA%B5%AC%EC%9E%90%EC%98%80%EB%8D%98%E2%80%85%EA%B1%B4%EC%97%90%E2%80%85%EB%8C%80%ED%95%98%EC%97%AC%E2%80%85%EF%BC%88Hard%EF%BC%89/README.md) |
 | 14725 | [개미굴](./%EB%B0%B1%EC%A4%80/Gold/14725.%E2%80%85%EA%B0%9C%EB%AF%B8%EA%B5%B4/README.md) |
 | 14728 | [벼락치기](./%EB%B0%B1%EC%A4%80/Gold/14728.%E2%80%85%EB%B2%BC%EB%9D%BD%EC%B9%98%EA%B8%B0/README.md) |
+| 14863 | [서울에서 경산까지](./%EB%B0%B1%EC%A4%80/Gold/14863.%E2%80%85%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%E2%80%85%EA%B2%BD%EC%82%B0%EA%B9%8C%EC%A7%80/README.md) |
 | 14890 | [경사로](./%EB%B0%B1%EC%A4%80/Gold/14890.%E2%80%85%EA%B2%BD%EC%82%AC%EB%A1%9C/README.md) |
 | 14891 | [톱니바퀴](./%EB%B0%B1%EC%A4%80/Gold/14891.%E2%80%85%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4/README.md) |
 | 14938 | [서강그라운드](./%EB%B0%B1%EC%A4%80/Gold/14938.%E2%80%85%EC%84%9C%EA%B0%95%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C/README.md) |
