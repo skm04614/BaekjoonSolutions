@@ -13,6 +13,7 @@ int N;
 int K;
 
 int DP[110][100100];
+bool VALID[110][100100];
 
 int main(void)
 {
@@ -26,13 +27,14 @@ int main(void)
 		std::cin >> T[i][0] >> W[i][0] >> T[i][1] >> W[i][1];
 	}
 
+	VALID[1][T[1][0]] = VALID[1][T[1][1]] = true;
 	DP[1][T[1][0]] = W[1][0];
-	DP[1][T[1][1]] = W[1][1];
+	DP[1][T[1][1]] = max(DP[1][T[1][1]], W[1][1]);
 	for (int i = 2; i <= N; ++i)
 	{
-		for (int t = 1; t <= K; ++t)
+		for (int t = 0; t <= K; ++t)
 		{
-			if (DP[i - 1][t] == 0)
+			if (VALID[i - 1][t] == false)
 			{
 				continue;
 			}
@@ -44,13 +46,15 @@ int main(void)
 					continue;
 				}
 
+				VALID[i][t + T[i][j]] = true;
+
 				DP[i][t + T[i][j]] = max(DP[i][t + T[i][j]], DP[i - 1][t] + W[i][j]);
 			}
 		}
 	}
 
 	int res = 0;
-	for (int t = 1; t <= K; ++t)
+	for (int t = 0; t <= K; ++t)
 	{
 		res = max(res, DP[N][t]);
 	}
