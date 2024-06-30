@@ -8,7 +8,7 @@
 | 13159 | [배열](./%EB%B0%B1%EC%A4%80/Diamond/13159.%E2%80%85%EB%B0%B0%EC%97%B4/README.md) |
 | 14131 | [Okret](./%EB%B0%B1%EC%A4%80/Diamond/14131.%E2%80%85Okret/README.md) |
 | 16586 | [Linked List](./%EB%B0%B1%EC%A4%80/Diamond/16586.%E2%80%85Linked%E2%80%85List/README.md) |
-### 🚀 Platinum <136 문제 해결>
+### 🚀 Platinum <137 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1097 | [마법의 문자열](./%EB%B0%B1%EC%A4%80/Platinum/1097.%E2%80%85%EB%A7%88%EB%B2%95%EC%9D%98%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
@@ -68,6 +68,7 @@
 | 8462 | [배열의 힘](./%EB%B0%B1%EC%A4%80/Platinum/8462.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%9E%98/README.md) |
 | 9248 | [Suffix Array](./%EB%B0%B1%EC%A4%80/Platinum/9248.%E2%80%85Suffix%E2%80%85Array/README.md) |
 | 9249 | [최장 공통 부분 문자열](./%EB%B0%B1%EC%A4%80/Platinum/9249.%E2%80%85%EC%B5%9C%EC%9E%A5%E2%80%85%EA%B3%B5%ED%86%B5%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
+| 9426 | [중앙값 측정](./%EB%B0%B1%EC%A4%80/Platinum/9426.%E2%80%85%EC%A4%91%EC%95%99%EA%B0%92%E2%80%85%EC%B8%A1%EC%A0%95/README.md) |
 | 9548 | [무제](./%EB%B0%B1%EC%A4%80/Platinum/9548.%E2%80%85%EB%AC%B4%EC%A0%9C/README.md) |
 | 10266 | [시계 사진들](./%EB%B0%B1%EC%A4%80/Platinum/10266.%E2%80%85%EC%8B%9C%EA%B3%84%E2%80%85%EC%82%AC%EC%A7%84%EB%93%A4/README.md) |
 | 10413 | [반복되는 부분 문자열](./%EB%B0%B1%EC%A4%80/Platinum/10413.%E2%80%85%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4/README.md) |
