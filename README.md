@@ -147,7 +147,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <326 문제 해결>
+### 🚀 Gold <327 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -255,6 +255,7 @@
 | 2457 | [공주님의 정원](./%EB%B0%B1%EC%A4%80/Gold/2457.%E2%80%85%EA%B3%B5%EC%A3%BC%EB%8B%98%EC%9D%98%E2%80%85%EC%A0%95%EC%9B%90/README.md) |
 | 2467 | [용액](./%EB%B0%B1%EC%A4%80/Gold/2467.%E2%80%85%EC%9A%A9%EC%95%A1/README.md) |
 | 2473 | [세 용액](./%EB%B0%B1%EC%A4%80/Gold/2473.%E2%80%85%EC%84%B8%E2%80%85%EC%9A%A9%EC%95%A1/README.md) |
+| 2482 | [색상환](./%EB%B0%B1%EC%A4%80/Gold/2482.%E2%80%85%EC%83%89%EC%83%81%ED%99%98/README.md) |
 | 2493 | [탑](./%EB%B0%B1%EC%A4%80/Gold/2493.%E2%80%85%ED%83%91/README.md) |
 | 2504 | [괄호의 값](./%EB%B0%B1%EC%A4%80/Gold/2504.%E2%80%85%EA%B4%84%ED%98%B8%EC%9D%98%E2%80%85%EA%B0%92/README.md) |
 | 2533 | [사회망 서비스（SNS）](./%EB%B0%B1%EC%A4%80/Gold/2533.%E2%80%85%EC%82%AC%ED%9A%8C%EB%A7%9D%E2%80%85%EC%84%9C%EB%B9%84%EC%8A%A4%EF%BC%88SNS%EF%BC%89/README.md) |
