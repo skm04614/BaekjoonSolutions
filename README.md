@@ -148,7 +148,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <328 문제 해결>
+### 🚀 Gold <330 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -328,6 +328,7 @@
 | 10282 | [해킹](./%EB%B0%B1%EC%A4%80/Gold/10282.%E2%80%85%ED%95%B4%ED%82%B9/README.md) |
 | 10422 | [괄호](./%EB%B0%B1%EC%A4%80/Gold/10422.%E2%80%85%EA%B4%84%ED%98%B8/README.md) |
 | 10423 | [전기가 부족해](./%EB%B0%B1%EC%A4%80/Gold/10423.%E2%80%85%EC%A0%84%EA%B8%B0%EA%B0%80%E2%80%85%EB%B6%80%EC%A1%B1%ED%95%B4/README.md) |
+| 10564 | [팔굽혀펴기](./%EB%B0%B1%EC%A4%80/Gold/10564.%E2%80%85%ED%8C%94%EA%B5%BD%ED%98%80%ED%8E%B4%EA%B8%B0/README.md) |
 | 10775 | [공항](./%EB%B0%B1%EC%A4%80/Gold/10775.%E2%80%85%EA%B3%B5%ED%95%AD/README.md) |
 | 10830 | [행렬 제곱](./%EB%B0%B1%EC%A4%80/Gold/10830.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EC%A0%9C%EA%B3%B1/README.md) |
 | 10835 | [카드게임](./%EB%B0%B1%EC%A4%80/Gold/10835.%E2%80%85%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84/README.md) |
@@ -362,6 +363,7 @@
 | 12904 | [A와 B](./%EB%B0%B1%EC%A4%80/Gold/12904.%E2%80%85A%EC%99%80%E2%80%85B/README.md) |
 | 12919 | [A와 B 2](./%EB%B0%B1%EC%A4%80/Gold/12919.%E2%80%85A%EC%99%80%E2%80%85B%E2%80%852/README.md) |
 | 12970 | [AB](./%EB%B0%B1%EC%A4%80/Gold/12970.%E2%80%85AB/README.md) |
+| 12978 | [스크루지 민호 2](./%EB%B0%B1%EC%A4%80/Gold/12978.%E2%80%85%EC%8A%A4%ED%81%AC%EB%A3%A8%EC%A7%80%E2%80%85%EB%AF%BC%ED%98%B8%E2%80%852/README.md) |
 | 13302 | [리조트](./%EB%B0%B1%EC%A4%80/Gold/13302.%E2%80%85%EB%A6%AC%EC%A1%B0%ED%8A%B8/README.md) |
 | 13325 | [이진 트리](./%EB%B0%B1%EC%A4%80/Gold/13325.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) |
 | 13334 | [철로](./%EB%B0%B1%EC%A4%80/Gold/13334.%E2%80%85%EC%B2%A0%EB%A1%9C/README.md) |
