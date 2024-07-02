@@ -148,7 +148,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <327 문제 해결>
+### 🚀 Gold <328 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -474,6 +474,7 @@
 | 25682 | [체스판 다시 칠하기 2](./%EB%B0%B1%EC%A4%80/Gold/25682.%E2%80%85%EC%B2%B4%EC%8A%A4%ED%8C%90%E2%80%85%EB%8B%A4%EC%8B%9C%E2%80%85%EC%B9%A0%ED%95%98%EA%B8%B0%E2%80%852/README.md) |
 | 27172 | [수 나누기 게임](./%EB%B0%B1%EC%A4%80/Gold/27172.%E2%80%85%EC%88%98%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/README.md) |
 | 27439 | [팩토리얼 4](./%EB%B0%B1%EC%A4%80/Gold/27439.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%E2%80%854/README.md) |
+| 27501 | [RGB트리](./%EB%B0%B1%EC%A4%80/Gold/27501.%E2%80%85RGB%ED%8A%B8%EB%A6%AC/README.md) |
 | 28078 | [중력 큐](./%EB%B0%B1%EC%A4%80/Gold/28078.%E2%80%85%EC%A4%91%EB%A0%A5%E2%80%85%ED%81%90/README.md) |
 | 28099 | [이상한 배열](./%EB%B0%B1%EC%A4%80/Gold/28099.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%B0%B0%EC%97%B4/README.md) |
 | 28127 | [숫자탑과 쿼리](./%EB%B0%B1%EC%A4%80/Gold/28127.%E2%80%85%EC%88%AB%EC%9E%90%ED%83%91%EA%B3%BC%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) |
