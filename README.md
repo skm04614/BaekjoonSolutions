@@ -148,7 +148,7 @@
 | 20531 | [인간관계](./%EB%B0%B1%EC%A4%80/Platinum/20531.%E2%80%85%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84/README.md) |
 | 27652 | [AB](./%EB%B0%B1%EC%A4%80/Platinum/27652.%E2%80%85AB/README.md) |
 | 31590 | [Candy Compress](./%EB%B0%B1%EC%A4%80/Platinum/31590.%E2%80%85Candy%E2%80%85Compress/README.md) |
-### 🚀 Gold <330 문제 해결>
+### 🚀 Gold <331 문제 해결>
 | 번호 | 문제 |
 | ----- | ----- |
 | 1005 | [ACM Craft](./%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) |
@@ -262,6 +262,7 @@
 | 2533 | [사회망 서비스（SNS）](./%EB%B0%B1%EC%A4%80/Gold/2533.%E2%80%85%EC%82%AC%ED%9A%8C%EB%A7%9D%E2%80%85%EC%84%9C%EB%B9%84%EC%8A%A4%EF%BC%88SNS%EF%BC%89/README.md) |
 | 2565 | [전깃줄](./%EB%B0%B1%EC%A4%80/Gold/2565.%E2%80%85%EC%A0%84%EA%B9%83%EC%A4%84/README.md) |
 | 2590 | [색종이](./%EB%B0%B1%EC%A4%80/Gold/2590.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4/README.md) |
+| 2591 | [숫자카드](./%EB%B0%B1%EC%A4%80/Gold/2591.%E2%80%85%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C/README.md) |
 | 2602 | [돌다리 건너기](./%EB%B0%B1%EC%A4%80/Gold/2602.%E2%80%85%EB%8F%8C%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B1%B4%EB%84%88%EA%B8%B0/README.md) |
 | 2616 | [소형기관차](./%EB%B0%B1%EC%A4%80/Gold/2616.%E2%80%85%EC%86%8C%ED%98%95%EA%B8%B0%EA%B4%80%EC%B0%A8/README.md) |
 | 2623 | [음악프로그램](./%EB%B0%B1%EC%A4%80/Gold/2623.%E2%80%85%EC%9D%8C%EC%95%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/README.md) |
